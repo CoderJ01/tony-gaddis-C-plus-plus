@@ -1,0 +1,1 @@
+Open the file "prize.dat" (not "prize.txt") to view the prizes for the winner of Pig.
